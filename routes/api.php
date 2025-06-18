@@ -1,5 +1,6 @@
 <?php
 
+use App\Models\Mensaje;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Services\ChatGptService;
@@ -17,10 +18,27 @@ Route::post('/webhook/whatsapp', function (Request $request, ChatGptService $cha
     if ($message && $message['type'] === 'text') {
         $from = $message['from'];
         $text = $message['text']['body'];
-        $reply = $chatGpt->ask($text);
+        Mensaje::create([
+            'telefono' => $from,
+            'role' => 'user',
+            'content' => $text,
+        ]);
+
+        $history = Mensaje::find($from);
+        $history = Mensaje::where('telefono', $from)
+            ->orderBy('created_at')
+            ->get(['role', 'content'])
+            ->toArray();
+        $reply = $chatGpt->ask($text,$history);
+        Mensaje::create([
+            'telefono' => $from,
+            'role' => 'system',
+            'content' => $reply,
+        ]);
+        //logger($history);
+        //logger($reply);
         $whatsapp->sendMessage($from, $reply);
     }
-
     return response()->json(['status' => 'ok']);
 });
 
@@ -31,6 +49,5 @@ Route::get('/webhook/whatsapp', function (Request $request) {
     ) {
         return response($request->query('hub_challenge'), 200);
     }
-
     return response('Invalid verify token', 403);
 });

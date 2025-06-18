@@ -1,0 +1,1741 @@
+{
+    "data": {
+        "current_page": 1,
+        "data": [
+            {
+                "id": 43570,
+                "descripcion": "SABANAS 4PZAS KING 100 % ALGOD\u00d3N (1 SABANA 256X269CM\/1 CUBRE COLCHON 198X203+28CM\/2 FUNDAS ESATNDAR 51X102CM)",
+                "sku": "KIS-09198-6",
+                "codigo_barra": "7453086328514-6",
+                "nombre_producto": "JUEGO DE SABANA CUATRO PZAS KING",
+                "nombre_producto_full": "Ropa De Cama, LIOR",
+                "categoria_producto": {
+                    "id": 14,
+                    "nombre_categoria": "Hogar"
+                },
+                "sub_categoria_producto": {
+                    "id": 229,
+                    "nombre_subcategoria": "Ropa De Cama"
+                },
+                "imagen": null,
+                "inventarios_ecommerce": [
+                    {
+                        "id": 93768,
+                        "lote_id": 1831,
+                        "producto_id": 43570,
+                        "color": "AMARILLO\/GRIS",
+                        "talla": "KING",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 41633,
+                            "producto_id": 43570,
+                            "color": "AMARILLO\/GRIS",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C14\/KIS-09198-6\/rEVPW21qVUbQApKvDRJggzEtNayAgVElZwcxwPYP.jpg"
+                        },
+                        "precio": {
+                            "id": 89351,
+                            "codigo_barra": "7453086328514-6",
+                            "precio_venta": "517.00",
+                            "sku_m": 304,
+                            "sku_d": 517
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 43574,
+                "descripcion": "SABANAS 4PZAS KING 100 % ALGOD\u00d3N (1 SABANA 256X269CM\/1 CUBRE COLCHON 198X203+28CM\/2 FUNDAS ESATNDAR 51X102CM)",
+                "sku": "KIS-09198-10",
+                "codigo_barra": "7453086328514-10",
+                "nombre_producto": "JUEGO DE SABANA CUATRO PZAS KING",
+                "nombre_producto_full": "Ropa De Cama, LIOR",
+                "categoria_producto": {
+                    "id": 14,
+                    "nombre_categoria": "Hogar"
+                },
+                "sub_categoria_producto": {
+                    "id": 229,
+                    "nombre_subcategoria": "Ropa De Cama"
+                },
+                "imagen": null,
+                "inventarios_ecommerce": [
+                    {
+                        "id": 93772,
+                        "lote_id": 1831,
+                        "producto_id": 43574,
+                        "color": "GRIS",
+                        "talla": "KING",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 41637,
+                            "producto_id": 43574,
+                            "color": "GRIS",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C14\/KIS-09198-10\/k1nK0DSuN7viIrfii4dKuD4BIk0ZabvQjEhLnGv5.jpg"
+                        },
+                        "precio": {
+                            "id": 89355,
+                            "codigo_barra": "7453086328514-10",
+                            "precio_venta": "517.00",
+                            "sku_m": 304,
+                            "sku_d": 517
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 43576,
+                "descripcion": "SABANAS 4PZAS KING 100 % ALGOD\u00d3N (1 SABANA 256X269CM\/1 CUBRE COLCHON 198X203+28CM\/2 FUNDAS ESATNDAR 51X102CM)",
+                "sku": "KIS-09198-12",
+                "codigo_barra": "7453086328514-12",
+                "nombre_producto": "JUEGO DE SABANA CUATRO PZAS KING",
+                "nombre_producto_full": "Ropa De Cama, LIOR",
+                "categoria_producto": {
+                    "id": 14,
+                    "nombre_categoria": "Hogar"
+                },
+                "sub_categoria_producto": {
+                    "id": 229,
+                    "nombre_subcategoria": "Ropa De Cama"
+                },
+                "imagen": null,
+                "inventarios_ecommerce": [
+                    {
+                        "id": 93774,
+                        "lote_id": 1831,
+                        "producto_id": 43576,
+                        "color": "AZUL\/ROSADO",
+                        "talla": "KING",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 41639,
+                            "producto_id": 43576,
+                            "color": "AZUL\/ROSADO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C14\/KIS-09198-12\/eeMuwihiqeAb1DTaIj0LQD2XPicK6y5Nv7ccrvUs.jpg"
+                        },
+                        "precio": {
+                            "id": 89357,
+                            "codigo_barra": "7453086328514-12",
+                            "precio_venta": "517.00",
+                            "sku_m": 304,
+                            "sku_d": 517
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 43707,
+                "descripcion": "SABANAS 4PZAS KING (1 SABANA 259X269CM\/ 1 CUBRE COLCHON 198X203+28CM\/ 2 FUNDAS 51X102CM)",
+                "sku": "13-659K-KI-35",
+                "codigo_barra": "7453086348048-35",
+                "nombre_producto": "JUEGO DE SABANA CUATRO PZAS",
+                "nombre_producto_full": "Ropa De Cama, LIOR",
+                "categoria_producto": {
+                    "id": 14,
+                    "nombre_categoria": "Hogar"
+                },
+                "sub_categoria_producto": {
+                    "id": 229,
+                    "nombre_subcategoria": "Ropa De Cama"
+                },
+                "imagen": null,
+                "inventarios_ecommerce": [
+                    {
+                        "id": 93909,
+                        "lote_id": 1831,
+                        "producto_id": 43707,
+                        "color": "BEIGE\/CAF\u00c9",
+                        "talla": "KING",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 41774,
+                            "producto_id": 43707,
+                            "color": "BEIGE\/CAF\u00c9",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C14\/13-659K-KI-35\/m9TzQWPvubceYs580nyhke3MqYKitX1mg1smLErk.jpg"
+                        },
+                        "precio": {
+                            "id": 89492,
+                            "codigo_barra": "7453086348048-35",
+                            "precio_venta": "534.00",
+                            "sku_m": 314,
+                            "sku_d": 534
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 43715,
+                "descripcion": "2 JUEGO DE SABANA 4 PZA QUEEN (2 SABANAS 229X259CM\/ 2 CUBRE COLCHON 162X203+28CM\/ 4 FUNDAS 51X76CM)",
+                "sku": "CRY-13265-111-8",
+                "codigo_barra": "7453120213097-8",
+                "nombre_producto": "DOS JUEGOS DE SABANAS OCHO PZAS",
+                "nombre_producto_full": "Ropa De Cama, LIOR",
+                "categoria_producto": {
+                    "id": 14,
+                    "nombre_categoria": "Hogar"
+                },
+                "sub_categoria_producto": {
+                    "id": 229,
+                    "nombre_subcategoria": "Ropa De Cama"
+                },
+                "imagen": {
+                    "id": 19069,
+                    "url": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C14\/CRY-13265-111-8\/GKVbmhSetQsxbKNbz91xTRiJbpybGsCSi4H5Se6S.jpg"
+                },
+                "inventarios_ecommerce": [
+                    {
+                        "id": 93917,
+                        "lote_id": 1831,
+                        "producto_id": 43715,
+                        "color": "VERDE\/BLANCO",
+                        "talla": "QUEEN",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 41782,
+                            "producto_id": 43715,
+                            "color": "VERDE\/BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C14\/CRY-13265-111-8\/jV4FCdLcUhCaMMu5DTHC7me9LZGCGK6NWeVkkcQ6.jpg"
+                        },
+                        "precio": {
+                            "id": 89500,
+                            "codigo_barra": "7453120213097-8",
+                            "precio_venta": "1138.00",
+                            "sku_m": 669,
+                            "sku_d": 1138
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 43721,
+                "descripcion": "2 JUEGO DE SABANA 4 PZA QUEEN (2 SABANAS 229X259CM\/ 2 CUBRE COLCHON 162X203+28CM\/ 4 FUNDAS 51X76CM)",
+                "sku": "CRY-13265-111-14",
+                "codigo_barra": "7453120213097-14",
+                "nombre_producto": "DOS JUEGOS DE SABANAS OCHO PZAS",
+                "nombre_producto_full": "Ropa De Cama, LIOR",
+                "categoria_producto": {
+                    "id": 14,
+                    "nombre_categoria": "Hogar"
+                },
+                "sub_categoria_producto": {
+                    "id": 229,
+                    "nombre_subcategoria": "Ropa De Cama"
+                },
+                "imagen": {
+                    "id": 19091,
+                    "url": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C14\/CRY-13265-111-14\/iMPmXaExGc1iu74gxAcDlg502OsBMRr3lTw8KFJc.jpg"
+                },
+                "inventarios_ecommerce": [
+                    {
+                        "id": 93923,
+                        "lote_id": 1831,
+                        "producto_id": 43721,
+                        "color": "ROJO",
+                        "talla": "QUEEN",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 41788,
+                            "producto_id": 43721,
+                            "color": "ROJO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C14\/CRY-13265-111-14\/ZqCpuMBF148g8ZmDBO20r0VoXWV8Ra75isOluu50.jpg"
+                        },
+                        "precio": {
+                            "id": 89506,
+                            "codigo_barra": "7453120213097-14",
+                            "precio_venta": "1138.00",
+                            "sku_m": 669,
+                            "sku_d": 1138
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 43726,
+                "descripcion": "2 JUEGO DE SABANA 4 PZA QUEEN (2 SABANAS 229X259CM\/ 2 CUBRE COLCHON 162X203+28CM\/ 4 FUNDAS 51X76CM)",
+                "sku": "CRY-13265-111-19",
+                "codigo_barra": "7453120213097-19",
+                "nombre_producto": "DOS JUEGOS DE SABANAS OCHO PZAS",
+                "nombre_producto_full": "Ropa De Cama, LIOR",
+                "categoria_producto": {
+                    "id": 14,
+                    "nombre_categoria": "Hogar"
+                },
+                "sub_categoria_producto": {
+                    "id": 229,
+                    "nombre_subcategoria": "Ropa De Cama"
+                },
+                "imagen": {
+                    "id": 19093,
+                    "url": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C14\/CRY-13265-111-19\/pysjEyYZL1xR2v0BWdobMMTxOXZn7uEbccj0ISW1.jpg"
+                },
+                "inventarios_ecommerce": [
+                    {
+                        "id": 93928,
+                        "lote_id": 1831,
+                        "producto_id": 43726,
+                        "color": "VERDE\/ROJO",
+                        "talla": "QUEEN",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 41793,
+                            "producto_id": 43726,
+                            "color": "VERDE\/ROJO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C14\/CRY-13265-111-19\/b8L3reRvxZxwYmFSJJWMvjtfy1qvfbT5tbyEMxUJ.jpg"
+                        },
+                        "precio": {
+                            "id": 89511,
+                            "codigo_barra": "7453120213097-19",
+                            "precio_venta": "1138.00",
+                            "sku_m": 669,
+                            "sku_d": 1138
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 43754,
+                "descripcion": "2 JUEGO DE SABANA 4 PZA FULL (2 SABANAS 203X229CM\/ 2 CUBRE COLCHON 137X193+24CM\/ 4 FUNDAS 51X76CM)",
+                "sku": "CRY-13252-111-9",
+                "codigo_barra": "7453120213080-9",
+                "nombre_producto": "DOS JUEGOS DE SABANAS OCHO PZAS",
+                "nombre_producto_full": "Ropa De Cama, LIOR",
+                "categoria_producto": {
+                    "id": 14,
+                    "nombre_categoria": "Hogar"
+                },
+                "sub_categoria_producto": {
+                    "id": 229,
+                    "nombre_subcategoria": "Ropa De Cama"
+                },
+                "imagen": {
+                    "id": 19075,
+                    "url": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C14\/CRY-13252-111-9\/YgOxsiwXEKNH5JYj4JxeLwXnj6OeftVfYHULtGXr.jpg"
+                },
+                "inventarios_ecommerce": [
+                    {
+                        "id": 93956,
+                        "lote_id": 1831,
+                        "producto_id": 43754,
+                        "color": "AZUL",
+                        "talla": "FULL",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 41821,
+                            "producto_id": 43754,
+                            "color": "AZUL",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C14\/CRY-13252-111-9\/mqvyd9Dxhp2ANT20EX4ehu3MUbpKFotLAXDqHrLH.jpg"
+                        },
+                        "precio": {
+                            "id": 89539,
+                            "codigo_barra": "7453120213080-9",
+                            "precio_venta": "1034.00",
+                            "sku_m": 608,
+                            "sku_d": 1034
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 44641,
+                "descripcion": "DIJE DE LA TORRES EIFFEL Y CAMARA ESMALTADA",
+                "sku": "CNP110751",
+                "codigo_barra": "202501856085",
+                "nombre_producto": "GARGANTILLA DE TORRE EIFFEL",
+                "nombre_producto_full": "Gargantilla Oro Laminado, 4L22C",
+                "categoria_producto": {
+                    "id": 3,
+                    "nombre_categoria": "Joyeria De Oro Laminado "
+                },
+                "sub_categoria_producto": {
+                    "id": 54,
+                    "nombre_subcategoria": "Gargantilla Oro Laminado"
+                },
+                "imagen": {
+                    "id": 19993,
+                    "url": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C3\/CNP110751\/y87VS5YFaR1Vy0ilFMnPU5CSHJTVYnljQbLvWRKh.jpg"
+                },
+                "inventarios_ecommerce": [
+                    {
+                        "id": 95569,
+                        "lote_id": 1856,
+                        "producto_id": 44641,
+                        "color": "ROJO\/GOLD",
+                        "talla": "45 CM",
+                        "cantidad_disponible": 7,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43019,
+                            "producto_id": 44641,
+                            "color": "ROJO\/GOLD",
+                            "url_image": null
+                        },
+                        "precio": {
+                            "id": 91152,
+                            "codigo_barra": "202501856085",
+                            "precio_venta": "130.00",
+                            "sku_m": 68,
+                            "sku_d": 130
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 44642,
+                "descripcion": "DIJE DE CAMARA, AVION Y CORAZON CON TEXTO I LOVE FRAVE",
+                "sku": "CNP120749",
+                "codigo_barra": "202501856086",
+                "nombre_producto": "GARGANTILLA DE VIAJE",
+                "nombre_producto_full": "Gargantilla Oro Laminado, 4L22C",
+                "categoria_producto": {
+                    "id": 3,
+                    "nombre_categoria": "Joyeria De Oro Laminado "
+                },
+                "sub_categoria_producto": {
+                    "id": 54,
+                    "nombre_subcategoria": "Gargantilla Oro Laminado"
+                },
+                "imagen": {
+                    "id": 20005,
+                    "url": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C3\/CNP120749\/2OVbacTWXKNdoMCyhcHYu62JB5vpaZ12ohypg7wy.jpg"
+                },
+                "inventarios_ecommerce": [
+                    {
+                        "id": 95570,
+                        "lote_id": 1856,
+                        "producto_id": 44642,
+                        "color": "GOLD",
+                        "talla": "45 CM",
+                        "cantidad_disponible": 5,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43020,
+                            "producto_id": 44642,
+                            "color": "GOLD",
+                            "url_image": null
+                        },
+                        "precio": {
+                            "id": 91153,
+                            "codigo_barra": "202501856086",
+                            "precio_venta": "141.00",
+                            "sku_m": 74,
+                            "sku_d": 141
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 44716,
+                "descripcion": "CONFECCIONADA CON 95% ALGOD\u00d3N Y 5% SPANDEX. SUAVE, EL\u00c1STICA Y C\u00d3MODA.",
+                "sku": "T-01-38",
+                "codigo_barra": "20250185701",
+                "nombre_producto": "CAMISETA 3 CORAZONES",
+                "nombre_producto_full": "Blusa Para Dama, TABA",
+                "categoria_producto": {
+                    "id": 8,
+                    "nombre_categoria": "Ropa"
+                },
+                "sub_categoria_producto": {
+                    "id": 147,
+                    "nombre_subcategoria": "Blusa Para Dama"
+                },
+                "imagen": null,
+                "inventarios_ecommerce": [
+                    {
+                        "id": 95644,
+                        "lote_id": 1857,
+                        "producto_id": 44716,
+                        "color": "AZUL",
+                        "talla": "S",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43093,
+                            "producto_id": 44716,
+                            "color": "AZUL",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-01-38\/4c3RsVmuPelIn92kDd8xDzexu9CUZe15mCQUIxRQ.jpg"
+                        },
+                        "precio": {
+                            "id": 91227,
+                            "codigo_barra": "20250185701",
+                            "precio_venta": "521.00",
+                            "sku_m": 306,
+                            "sku_d": 521
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95646,
+                        "lote_id": 1857,
+                        "producto_id": 44716,
+                        "color": "AZUL",
+                        "talla": "L",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43093,
+                            "producto_id": 44716,
+                            "color": "AZUL",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-01-38\/4c3RsVmuPelIn92kDd8xDzexu9CUZe15mCQUIxRQ.jpg"
+                        },
+                        "precio": {
+                            "id": 91229,
+                            "codigo_barra": "20250185701",
+                            "precio_venta": "521.00",
+                            "sku_m": 306,
+                            "sku_d": 521
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95647,
+                        "lote_id": 1857,
+                        "producto_id": 44716,
+                        "color": "BLANCO",
+                        "talla": "S",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43094,
+                            "producto_id": 44716,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-01-38\/HuBZk2amj9VXmFdxg6KEMcu4HUaFYYOrGzYYyj4d.jpg"
+                        },
+                        "precio": {
+                            "id": 91230,
+                            "codigo_barra": "20250185701",
+                            "precio_venta": "521.00",
+                            "sku_m": 306,
+                            "sku_d": 521
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95648,
+                        "lote_id": 1857,
+                        "producto_id": 44716,
+                        "color": "BLANCO",
+                        "talla": "M",
+                        "cantidad_disponible": 3,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43094,
+                            "producto_id": 44716,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-01-38\/HuBZk2amj9VXmFdxg6KEMcu4HUaFYYOrGzYYyj4d.jpg"
+                        },
+                        "precio": {
+                            "id": 91231,
+                            "codigo_barra": "20250185701",
+                            "precio_venta": "521.00",
+                            "sku_m": 306,
+                            "sku_d": 521
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95649,
+                        "lote_id": 1857,
+                        "producto_id": 44716,
+                        "color": "BLANCO",
+                        "talla": "L",
+                        "cantidad_disponible": 3,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43094,
+                            "producto_id": 44716,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-01-38\/HuBZk2amj9VXmFdxg6KEMcu4HUaFYYOrGzYYyj4d.jpg"
+                        },
+                        "precio": {
+                            "id": 91232,
+                            "codigo_barra": "20250185701",
+                            "precio_venta": "521.00",
+                            "sku_m": 306,
+                            "sku_d": 521
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 44717,
+                "descripcion": "CONFECCIONADA CON 95% ALGOD\u00d3N Y 5% SPANDEX. AJUSTE C\u00d3MODO Y DISE\u00d1O ORIGINAL.",
+                "sku": "T-10-08",
+                "codigo_barra": "20250185702",
+                "nombre_producto": "CAMISETA CORTA DOBLE COLLAR",
+                "nombre_producto_full": "Blusa Para Dama, TABA",
+                "categoria_producto": {
+                    "id": 8,
+                    "nombre_categoria": "Ropa"
+                },
+                "sub_categoria_producto": {
+                    "id": 147,
+                    "nombre_subcategoria": "Blusa Para Dama"
+                },
+                "imagen": null,
+                "inventarios_ecommerce": [
+                    {
+                        "id": 95650,
+                        "lote_id": 1857,
+                        "producto_id": 44717,
+                        "color": "NEGRO",
+                        "talla": "S",
+                        "cantidad_disponible": 3,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43095,
+                            "producto_id": 44717,
+                            "color": "NEGRO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-10-08\/XfjsKOGFBlVq8xKgxyLkpJG8mTWJmlkwHYY0Rfea.jpg"
+                        },
+                        "precio": {
+                            "id": 91233,
+                            "codigo_barra": "20250185702",
+                            "precio_venta": "521.00",
+                            "sku_m": 306,
+                            "sku_d": 521
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95651,
+                        "lote_id": 1857,
+                        "producto_id": 44717,
+                        "color": "NEGRO",
+                        "talla": "M",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43095,
+                            "producto_id": 44717,
+                            "color": "NEGRO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-10-08\/XfjsKOGFBlVq8xKgxyLkpJG8mTWJmlkwHYY0Rfea.jpg"
+                        },
+                        "precio": {
+                            "id": 91234,
+                            "codigo_barra": "20250185702",
+                            "precio_venta": "521.00",
+                            "sku_m": 306,
+                            "sku_d": 521
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95653,
+                        "lote_id": 1857,
+                        "producto_id": 44717,
+                        "color": "BLANCO",
+                        "talla": "S",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43096,
+                            "producto_id": 44717,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-10-08\/B0oKMTSizLFwscg8KFa5FvVin7AiAys0T2RrU3cZ.jpg"
+                        },
+                        "precio": {
+                            "id": 91236,
+                            "codigo_barra": "20250185702",
+                            "precio_venta": "521.00",
+                            "sku_m": 306,
+                            "sku_d": 521
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95654,
+                        "lote_id": 1857,
+                        "producto_id": 44717,
+                        "color": "BLANCO",
+                        "talla": "M",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43096,
+                            "producto_id": 44717,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-10-08\/B0oKMTSizLFwscg8KFa5FvVin7AiAys0T2RrU3cZ.jpg"
+                        },
+                        "precio": {
+                            "id": 91237,
+                            "codigo_barra": "20250185702",
+                            "precio_venta": "521.00",
+                            "sku_m": 306,
+                            "sku_d": 521
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95655,
+                        "lote_id": 1857,
+                        "producto_id": 44717,
+                        "color": "BLANCO",
+                        "talla": "L",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43096,
+                            "producto_id": 44717,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-10-08\/B0oKMTSizLFwscg8KFa5FvVin7AiAys0T2RrU3cZ.jpg"
+                        },
+                        "precio": {
+                            "id": 91238,
+                            "codigo_barra": "20250185702",
+                            "precio_venta": "521.00",
+                            "sku_m": 306,
+                            "sku_d": 521
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 44718,
+                "descripcion": "CONFECCIONADA CON 95% ALGOD\u00d3N Y 5% SPANDEX. MODERNA Y FLEXIBLE PARA USO DIARIO.",
+                "sku": "T-10-09",
+                "codigo_barra": "20250185703",
+                "nombre_producto": "CAMISETA CORTA CON CHOKER",
+                "nombre_producto_full": "Blusa Para Dama, TABA",
+                "categoria_producto": {
+                    "id": 8,
+                    "nombre_categoria": "Ropa"
+                },
+                "sub_categoria_producto": {
+                    "id": 147,
+                    "nombre_subcategoria": "Blusa Para Dama"
+                },
+                "imagen": null,
+                "inventarios_ecommerce": [
+                    {
+                        "id": 95656,
+                        "lote_id": 1857,
+                        "producto_id": 44718,
+                        "color": "NEGRO",
+                        "talla": "S",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43097,
+                            "producto_id": 44718,
+                            "color": "NEGRO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-10-09\/WPUMHxlT8oEpGiEZ6uiK1nZCzbUY1acgvT2ZHVRR.jpg"
+                        },
+                        "precio": {
+                            "id": 91239,
+                            "codigo_barra": "20250185703",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95659,
+                        "lote_id": 1857,
+                        "producto_id": 44718,
+                        "color": "BLANCO",
+                        "talla": "S",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43098,
+                            "producto_id": 44718,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-10-09\/WoMsniWI2Lxbav8Rebc3ndL70sunIqvCniwIZkPW.jpg"
+                        },
+                        "precio": {
+                            "id": 91242,
+                            "codigo_barra": "20250185703",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95660,
+                        "lote_id": 1857,
+                        "producto_id": 44718,
+                        "color": "BLANCO",
+                        "talla": "M",
+                        "cantidad_disponible": 4,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43098,
+                            "producto_id": 44718,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-10-09\/WoMsniWI2Lxbav8Rebc3ndL70sunIqvCniwIZkPW.jpg"
+                        },
+                        "precio": {
+                            "id": 91243,
+                            "codigo_barra": "20250185703",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95661,
+                        "lote_id": 1857,
+                        "producto_id": 44718,
+                        "color": "BLANCO",
+                        "talla": "L",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43098,
+                            "producto_id": 44718,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/T-10-09\/WoMsniWI2Lxbav8Rebc3ndL70sunIqvCniwIZkPW.jpg"
+                        },
+                        "precio": {
+                            "id": 91244,
+                            "codigo_barra": "20250185703",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 44719,
+                "descripcion": "CONFECCIONADA CON 95% ALGOD\u00d3N Y 5% SPANDEX. ESTILO DIVERTIDO Y TEXTURA SUAVE.",
+                "sku": "TA-238",
+                "codigo_barra": "20250185704",
+                "nombre_producto": "CAMISETA 3 GATOS",
+                "nombre_producto_full": "Blusa Para Dama, TABA",
+                "categoria_producto": {
+                    "id": 8,
+                    "nombre_categoria": "Ropa"
+                },
+                "sub_categoria_producto": {
+                    "id": 147,
+                    "nombre_subcategoria": "Blusa Para Dama"
+                },
+                "imagen": null,
+                "inventarios_ecommerce": [
+                    {
+                        "id": 95662,
+                        "lote_id": 1857,
+                        "producto_id": 44719,
+                        "color": "BLANCO",
+                        "talla": "S",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43099,
+                            "producto_id": 44719,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TA-238\/wrSNukwF8J70cSSr0Nhu09eDbG8DEer71l9yF0l2.jpg"
+                        },
+                        "precio": {
+                            "id": 91245,
+                            "codigo_barra": "20250185704",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95663,
+                        "lote_id": 1857,
+                        "producto_id": 44719,
+                        "color": "BLANCO",
+                        "talla": "M",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43099,
+                            "producto_id": 44719,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TA-238\/wrSNukwF8J70cSSr0Nhu09eDbG8DEer71l9yF0l2.jpg"
+                        },
+                        "precio": {
+                            "id": 91246,
+                            "codigo_barra": "20250185704",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95664,
+                        "lote_id": 1857,
+                        "producto_id": 44719,
+                        "color": "BLANCO",
+                        "talla": "L",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43099,
+                            "producto_id": 44719,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TA-238\/wrSNukwF8J70cSSr0Nhu09eDbG8DEer71l9yF0l2.jpg"
+                        },
+                        "precio": {
+                            "id": 91247,
+                            "codigo_barra": "20250185704",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95665,
+                        "lote_id": 1857,
+                        "producto_id": 44719,
+                        "color": "NEGRO",
+                        "talla": "S",
+                        "cantidad_disponible": 3,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43100,
+                            "producto_id": 44719,
+                            "color": "NEGRO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TA-238\/JNa8a1IiJAeTaqnoDgna7CcGSYzXqgHM4shibQJW.jpg"
+                        },
+                        "precio": {
+                            "id": 91248,
+                            "codigo_barra": "20250185704",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 44720,
+                "descripcion": "CONFECCIONADA CON 95% ALGOD\u00d3N Y 5% SPANDEX. ESTAMPADO LLAMATIVO Y C\u00d3MODO AJUSTE.",
+                "sku": "TA-239",
+                "codigo_barra": "20250185705",
+                "nombre_producto": "CAMISETA LABERINTO DE CORAZONES",
+                "nombre_producto_full": "Blusa Para Dama, TABA",
+                "categoria_producto": {
+                    "id": 8,
+                    "nombre_categoria": "Ropa"
+                },
+                "sub_categoria_producto": {
+                    "id": 147,
+                    "nombre_subcategoria": "Blusa Para Dama"
+                },
+                "imagen": null,
+                "inventarios_ecommerce": [
+                    {
+                        "id": 95668,
+                        "lote_id": 1857,
+                        "producto_id": 44720,
+                        "color": "ROJO",
+                        "talla": "S",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43101,
+                            "producto_id": 44720,
+                            "color": "ROJO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TA-239\/DFwqNFhPeXhJOg7pSY0ENVSXQf67vP77qfvUW0u8.jpg"
+                        },
+                        "precio": {
+                            "id": 91251,
+                            "codigo_barra": "20250185705",
+                            "precio_venta": "700.00",
+                            "sku_m": 424,
+                            "sku_d": 700
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95672,
+                        "lote_id": 1857,
+                        "producto_id": 44720,
+                        "color": "BLANCO",
+                        "talla": "M",
+                        "cantidad_disponible": 5,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43102,
+                            "producto_id": 44720,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TA-239\/klnXoPqVkMJiTAaltnp6EjuUs8ZZRs172uiTLvYO.jpg"
+                        },
+                        "precio": {
+                            "id": 91255,
+                            "codigo_barra": "20250185705",
+                            "precio_venta": "700.00",
+                            "sku_m": 424,
+                            "sku_d": 700
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95673,
+                        "lote_id": 1857,
+                        "producto_id": 44720,
+                        "color": "BLANCO",
+                        "talla": "L",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43102,
+                            "producto_id": 44720,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TA-239\/klnXoPqVkMJiTAaltnp6EjuUs8ZZRs172uiTLvYO.jpg"
+                        },
+                        "precio": {
+                            "id": 91256,
+                            "codigo_barra": "20250185705",
+                            "precio_venta": "700.00",
+                            "sku_m": 424,
+                            "sku_d": 700
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 44721,
+                "descripcion": "CONFECCIONADA CON 95% ALGOD\u00d3N Y 5% SPANDEX. DISE\u00d1O MODERNO Y VERS\u00c1TIL.",
+                "sku": "TB-42",
+                "codigo_barra": "20250185706",
+                "nombre_producto": "CAMISETA ESTAMPADO NEGATIVO",
+                "nombre_producto_full": "Blusa Para Dama, TABA",
+                "categoria_producto": {
+                    "id": 8,
+                    "nombre_categoria": "Ropa"
+                },
+                "sub_categoria_producto": {
+                    "id": 147,
+                    "nombre_subcategoria": "Blusa Para Dama"
+                },
+                "imagen": null,
+                "inventarios_ecommerce": [
+                    {
+                        "id": 95674,
+                        "lote_id": 1857,
+                        "producto_id": 44721,
+                        "color": "ROSADO",
+                        "talla": "S",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43103,
+                            "producto_id": 44721,
+                            "color": "ROSADO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TB-42\/Yh3ExBwnsWtGKDLos5hDdUnkTy5BmJihZrdwwsiF.jpg"
+                        },
+                        "precio": {
+                            "id": 91257,
+                            "codigo_barra": "20250185706",
+                            "precio_venta": "580.00",
+                            "sku_m": 341,
+                            "sku_d": 580
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95675,
+                        "lote_id": 1857,
+                        "producto_id": 44721,
+                        "color": "ROSADO",
+                        "talla": "M",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43103,
+                            "producto_id": 44721,
+                            "color": "ROSADO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TB-42\/Yh3ExBwnsWtGKDLos5hDdUnkTy5BmJihZrdwwsiF.jpg"
+                        },
+                        "precio": {
+                            "id": 91258,
+                            "codigo_barra": "20250185706",
+                            "precio_venta": "580.00",
+                            "sku_m": 341,
+                            "sku_d": 580
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95676,
+                        "lote_id": 1857,
+                        "producto_id": 44721,
+                        "color": "ROSADO",
+                        "talla": "L",
+                        "cantidad_disponible": 3,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43103,
+                            "producto_id": 44721,
+                            "color": "ROSADO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TB-42\/Yh3ExBwnsWtGKDLos5hDdUnkTy5BmJihZrdwwsiF.jpg"
+                        },
+                        "precio": {
+                            "id": 91259,
+                            "codigo_barra": "20250185706",
+                            "precio_venta": "580.00",
+                            "sku_m": 341,
+                            "sku_d": 580
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95677,
+                        "lote_id": 1857,
+                        "producto_id": 44721,
+                        "color": "ROJO",
+                        "talla": "S",
+                        "cantidad_disponible": 3,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43104,
+                            "producto_id": 44721,
+                            "color": "ROJO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TB-42\/VjmXvS0Vz5i7toKru3IMr3eKOyyqTHrRuAwmLMnx.jpg"
+                        },
+                        "precio": {
+                            "id": 91260,
+                            "codigo_barra": "20250185706",
+                            "precio_venta": "580.00",
+                            "sku_m": 341,
+                            "sku_d": 580
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95678,
+                        "lote_id": 1857,
+                        "producto_id": 44721,
+                        "color": "ROJO",
+                        "talla": "M",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43104,
+                            "producto_id": 44721,
+                            "color": "ROJO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TB-42\/VjmXvS0Vz5i7toKru3IMr3eKOyyqTHrRuAwmLMnx.jpg"
+                        },
+                        "precio": {
+                            "id": 91261,
+                            "codigo_barra": "20250185706",
+                            "precio_venta": "580.00",
+                            "sku_m": 341,
+                            "sku_d": 580
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95679,
+                        "lote_id": 1857,
+                        "producto_id": 44721,
+                        "color": "ROJO",
+                        "talla": "L",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43104,
+                            "producto_id": 44721,
+                            "color": "ROJO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TB-42\/VjmXvS0Vz5i7toKru3IMr3eKOyyqTHrRuAwmLMnx.jpg"
+                        },
+                        "precio": {
+                            "id": 91262,
+                            "codigo_barra": "20250185706",
+                            "precio_venta": "580.00",
+                            "sku_m": 341,
+                            "sku_d": 580
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 44722,
+                "descripcion": "CONFECCIONADA CON 95% ALGOD\u00d3N Y 5% SPANDEX. DETALLES ENCANTADORES Y TEJIDO SUAVE.",
+                "sku": "TB-50",
+                "codigo_barra": "20250185707",
+                "nombre_producto": "CAMISETA CARA DE GATO",
+                "nombre_producto_full": "Blusa Para Dama, TABA",
+                "categoria_producto": {
+                    "id": 8,
+                    "nombre_categoria": "Ropa"
+                },
+                "sub_categoria_producto": {
+                    "id": 147,
+                    "nombre_subcategoria": "Blusa Para Dama"
+                },
+                "imagen": null,
+                "inventarios_ecommerce": [
+                    {
+                        "id": 95680,
+                        "lote_id": 1857,
+                        "producto_id": 44722,
+                        "color": "CAF\u00c9",
+                        "talla": "S",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43105,
+                            "producto_id": 44722,
+                            "color": "CAF\u00c9",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TB-50\/uxYvYiXnpI3bKtFGYGrkpunrEQcBleh97kbRfsZD.jpg"
+                        },
+                        "precio": {
+                            "id": 91263,
+                            "codigo_barra": "20250185707",
+                            "precio_venta": "601.00",
+                            "sku_m": 353,
+                            "sku_d": 601
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 44723,
+                "descripcion": "CONFECCIONADA CON 95% ALGOD\u00d3N Y 5% SPANDEX. CON TOQUES DE PEDRER\u00cdA QUE RESALTAN.",
+                "sku": "TC-07",
+                "codigo_barra": "20250185708",
+                "nombre_producto": "CAMISETA CUADROS CON BRILLANTES",
+                "nombre_producto_full": "Blusa Para Dama, TABA",
+                "categoria_producto": {
+                    "id": 8,
+                    "nombre_categoria": "Ropa"
+                },
+                "sub_categoria_producto": {
+                    "id": 147,
+                    "nombre_subcategoria": "Blusa Para Dama"
+                },
+                "imagen": null,
+                "inventarios_ecommerce": [
+                    {
+                        "id": 95686,
+                        "lote_id": 1857,
+                        "producto_id": 44723,
+                        "color": "NEGRO",
+                        "talla": "S",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43107,
+                            "producto_id": 44723,
+                            "color": "NEGRO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TC-07\/Ua9cCypqcgoBAEYgB7Js79kkemcQWvQL1TdofD4j.jpg"
+                        },
+                        "precio": {
+                            "id": 91269,
+                            "codigo_barra": "20250185708",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95688,
+                        "lote_id": 1857,
+                        "producto_id": 44723,
+                        "color": "NEGRO",
+                        "talla": "L",
+                        "cantidad_disponible": 1,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43107,
+                            "producto_id": 44723,
+                            "color": "NEGRO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TC-07\/Ua9cCypqcgoBAEYgB7Js79kkemcQWvQL1TdofD4j.jpg"
+                        },
+                        "precio": {
+                            "id": 91271,
+                            "codigo_barra": "20250185708",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95689,
+                        "lote_id": 1857,
+                        "producto_id": 44723,
+                        "color": "BLANCO",
+                        "talla": "S",
+                        "cantidad_disponible": 3,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43108,
+                            "producto_id": 44723,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TC-07\/uUBbx3Gnhk9RPMiU5PY3feCg8c2gvHpmB21X0kN1.jpg"
+                        },
+                        "precio": {
+                            "id": 91272,
+                            "codigo_barra": "20250185708",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95690,
+                        "lote_id": 1857,
+                        "producto_id": 44723,
+                        "color": "BLANCO",
+                        "talla": "M",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43108,
+                            "producto_id": 44723,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TC-07\/uUBbx3Gnhk9RPMiU5PY3feCg8c2gvHpmB21X0kN1.jpg"
+                        },
+                        "precio": {
+                            "id": 91273,
+                            "codigo_barra": "20250185708",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    },
+                    {
+                        "id": 95691,
+                        "lote_id": 1857,
+                        "producto_id": 44723,
+                        "color": "BLANCO",
+                        "talla": "L",
+                        "cantidad_disponible": 2,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43108,
+                            "producto_id": 44723,
+                            "color": "BLANCO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C8\/TC-07\/uUBbx3Gnhk9RPMiU5PY3feCg8c2gvHpmB21X0kN1.jpg"
+                        },
+                        "precio": {
+                            "id": 91274,
+                            "codigo_barra": "20250185708",
+                            "precio_venta": "623.00",
+                            "sku_m": 377,
+                            "sku_d": 623
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 45073,
+                "descripcion": "DISE\u00d1O DE STITCH CON CAMISETA ESMALTADO",
+                "sku": "JEC-0259",
+                "codigo_barra": "202501878013",
+                "nombre_producto": "CHARM DE STITCH",
+                "nombre_producto_full": "Joyeria Especial Charms Plata 925, GLDNSLVR",
+                "categoria_producto": {
+                    "id": 1,
+                    "nombre_categoria": "Joyer\u00eda De Plata 925"
+                },
+                "sub_categoria_producto": {
+                    "id": 15,
+                    "nombre_subcategoria": "Joyeria Especial Charms Plata 925"
+                },
+                "imagen": {
+                    "id": 20498,
+                    "url": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C1\/JEC-0259\/VKlQLGvZtbd3GQcWabIzdZGvSeFDyw5ZxxODb0yq.jpg"
+                },
+                "inventarios_ecommerce": [
+                    {
+                        "id": 96445,
+                        "lote_id": 1878,
+                        "producto_id": 45073,
+                        "color": "AZUL\/AMARILLO",
+                        "talla": null,
+                        "cantidad_disponible": 19,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43503,
+                            "producto_id": 45073,
+                            "color": "AZUL\/AMARILLO",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C1\/JEC-0259\/Bqpzx01G0apjNHpZ3mpPLUJpdAeomwc5FVXbXYzi.jpg"
+                        },
+                        "precio": {
+                            "id": 92028,
+                            "codigo_barra": "202501878013",
+                            "precio_venta": "680.00",
+                            "sku_m": 412,
+                            "sku_d": 680
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 45177,
+                "descripcion": "DISE\u00d1O DE ZAPATO CON GAMUSA",
+                "sku": "DJ-1861",
+                "codigo_barra": "202501880059",
+                "nombre_producto": "DIJE DE ZAPATO",
+                "nombre_producto_full": "Dije Plata 925, GLDNSLVR",
+                "categoria_producto": {
+                    "id": 1,
+                    "nombre_categoria": "Joyer\u00eda De Plata 925"
+                },
+                "sub_categoria_producto": {
+                    "id": 13,
+                    "nombre_subcategoria": "Dije Plata 925"
+                },
+                "imagen": {
+                    "id": 20659,
+                    "url": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C1\/DJ-1861\/EDJD87j3udiPUOITmCx0uPpHGCD6294xKWyofjT5.jpg"
+                },
+                "inventarios_ecommerce": [
+                    {
+                        "id": 96637,
+                        "lote_id": 1880,
+                        "producto_id": 45177,
+                        "color": "SILVER",
+                        "talla": null,
+                        "cantidad_disponible": 4,
+                        "estado_producto_liquidacion": "Producto Normal",
+                        "producto_color_codigo": {
+                            "id": 43574,
+                            "producto_id": 45177,
+                            "color": "SILVER",
+                            "url_image": "https:\/\/cdn-grupoinfinitum.ingeniacode.com\/images\/grupoinfinitumsderldecv\/C1\/DJ-1861\/atP1SxahO5YFEWdIeIk8HmGkUernPZo841LreA38.jpg"
+                        },
+                        "precio": {
+                            "id": 92220,
+                            "codigo_barra": "202501880059",
+                            "precio_venta": "240.00",
+                            "sku_m": 133,
+                            "sku_d": 240
+                        },
+                        "descuento": {
+                            "descuento": 0,
+                            "punto": 0,
+                            "item_total": 0,
+                            "item_descuento": 0
+                        }
+                    }
+                ]
+            }
+        ],
+        "first_page_url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=1",
+        "from": 1,
+        "last_page": 9,
+        "last_page_url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=9",
+        "next_page_url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=2",
+        "path": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto",
+        "per_page": 20,
+        "prev_page_url": null,
+        "to": 20,
+        "total": 164,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=3",
+                "label": "3",
+                "active": false
+            },
+            {
+                "url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=4",
+                "label": "4",
+                "active": false
+            },
+            {
+                "url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=5",
+                "label": "5",
+                "active": false
+            },
+            {
+                "url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=6",
+                "label": "6",
+                "active": false
+            },
+            {
+                "url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=7",
+                "label": "7",
+                "active": false
+            },
+            {
+                "url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=8",
+                "label": "8",
+                "active": false
+            },
+            {
+                "url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=9",
+                "label": "9",
+                "active": false
+            },
+            {
+                "url": "https:\/\/grupoinfinitum.hn\/server\/api\/e-comerce\/searchproducto?query=camisa&page=2",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ]
+    },
+    "hasError": false,
+    "exception": null,
+    "stackTrace": null
+}
