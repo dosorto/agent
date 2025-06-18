@@ -14,11 +14,9 @@ Route::post('/webhook/whatsapp', function (Request $request, ChatGptService $cha
     $entry = $request->input('entry')[0];
     $changes = $entry['changes'][0]['value'] ?? null;
     $message = $changes['messages'][0] ?? null;
-
     if ($message && $message['type'] === 'text') {
         $from = $message['from'];
         $text = $message['text']['body'];
-
         $reply = $chatGpt->ask($text);
         $whatsapp->sendMessage($from, $reply);
     }
