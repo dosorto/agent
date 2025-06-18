@@ -27,8 +27,12 @@ Route::post('/webhook/whatsapp', function (Request $request, ChatGptService $cha
 });
 
 Route::get('/webhook/whatsapp', function (Request $request) {
-    if ($request->input('hub.verify_token') === env('WHATSAPP_VERIFY_TOKEN')) {
-        return response($request->input('hub.challenge'), 200);
+    if (
+        $request->query('hub_mode') === 'subscribe' &&
+        $request->query('hub_verify_token') === env('WHATSAPP_VERIFY_TOKEN')
+    ) {
+        return response($request->query('hub_challenge'), 200);
     }
+
     return response('Invalid verify token', 403);
 });
