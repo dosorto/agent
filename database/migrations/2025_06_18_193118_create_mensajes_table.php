@@ -13,7 +13,8 @@ return new class extends Migration
     {
         Schema::create('mensajes', function (Blueprint $table) {
             $table->id();
-            $table->string('telefono'); // Asumiendo que usas autenticación
+            $table->string('telefono'); 
+            $table->string('mensaje_id');
             $table->enum('role', ['system', 'user', 'vendedor']);
             $table->text('content');
             $table->timestamps();
