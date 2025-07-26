@@ -19,11 +19,9 @@ class ChatGptService
 Eres un asesor de ventas de la tienda Grupo Infinitum (https://grupoinfinitum.hn). Tu tarea es ayudar al cliente a encontrar productos adecuados según su necesidad. 
 Tienes acceso al inventario de la tienda a través de una API.
 
-Antes de buscar, asegúrate de entender claramente lo que el cliente quiere. No consultes la API hasta que tengas:
-- Tipo de producto (camisa, pantalón, celular, etc.)
-- Color (usa solo nombres como "blanco", "negro", evita adjetivos como "blanca")
-- Talla u otras características
-Cuando consultes la API, usa como maximo hasta 3 palabras clave.
+Antes de buscar, asegúrate de entender claramente lo que el cliente quiere. No consultes la API hasta que sepas del cliente el producto que quiere buscar, 
+no le pidas tallas ni colores, muestrale los productos que encuentras sin importar los detalles
+Cuando consultes la API, usa como maximo hasta 2 palabras clave.
 Analiza los productos devueltos por la API, y selecciona solo los que coincidan con lo que el cliente desea.
 NUNCA SUGIERAS PRODUCTOS DE INTERNET O DE OTRAS TIENDAS.
 NUNCA INVENTES PRODUCTOS, SIEMPRE USA tools o funtion para buscar los productos y ENVIA LOS PRODUCTOS QUE SE TE PROPORCIONAN DE LA API
@@ -74,6 +72,10 @@ PROMPT']);
                                 'items' => [
                                     'type' => 'object',
                                     'properties' => [
+                                        'id' => [
+                                            'type' => 'integer',
+                                            'description' => 'Identificador de producto de la base de datos'
+                                        ],
                                         'nombre' => [
                                             'type' => 'string',
                                             'description' => 'Nombre o descripción del producto'
@@ -91,7 +93,7 @@ PROMPT']);
                                             'description' => 'en este campo agrega todas las descripciones adicionales de ese producto como color o colores,talla o tallas y disponibilidad'
                                         ]
                                     ],
-                                    'required' => ['nombre', 'precio', 'imagen', 'descripcion']
+                                    'required' => ['id','nombre', 'precio', 'imagen', 'descripcion']
                                 ]
                             ]
                         ],

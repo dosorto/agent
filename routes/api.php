@@ -55,7 +55,7 @@ Route::post('/webhook/whatsapp', function (Request $request, ChatGptService $cha
         $whatsapp->sendMessage($from, $reply['respuesta']);
         if($reply['productos']){
             foreach($reply['productos'] as $p){
-                $caption = $p['imagen']."\n".$p['nombre']."\n". $p['precio']."\n". $p['descripcion'];
+                $caption = "https://grupoinfinitum.hn/shop/product-details/".$p['id']."\n".$p['nombre']."\n". $p['precio']."\n". $p['descripcion'];
                 //$whatsapp->sendMessage($from, $caption);
             $whatsapp->sendImage($from,$caption,$p['imagen']);
             }
