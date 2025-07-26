@@ -13,6 +13,7 @@ Route::get('/user', function (Request $request) {
 })->middleware('auth:sanctum');*/
 
 Route::post('/webhook/whatsapp', function (Request $request, ChatGptService $chatGpt, WhatsAppService $whatsapp) {
+    //logger($request);
     $entry = $request->input('entry')[0];
     $changes = $entry['changes'][0]['value'] ?? null;
     $message = $changes['messages'][0] ?? null;
@@ -49,7 +50,7 @@ Route::post('/webhook/whatsapp', function (Request $request, ChatGptService $cha
             'content' => json_encode($reply, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES)
         ]);
         //logger($history);
-        //logger($reply);
+        logger($reply);
 
         $whatsapp->sendMessage($from, $reply['respuesta']);
         if($reply['productos']){
@@ -72,7 +73,9 @@ Route::post('/webhook/whatsapp', function (Request $request, ChatGptService $cha
     return response()->json(['status' => 'ok']);
 });
 
-Route::get('/webhook/whatsapp', function (Request $request) {
+Route::get('/webhook/whatsapp', function (Request $request, WhatsAppService $whatsapp) {
+    logger($request);
+    //$whatsapp->sendMessage('50488493215', "hola");
     if (
         $request->query('hub_mode') === 'subscribe' &&
         $request->query('hub_verify_token') === env('WHATSAPP_VERIFY_TOKEN')

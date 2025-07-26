@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('telefono'); 
             $table->string('mensaje_id');
-            $table->enum('role', ['system', 'user', 'vendedor']);
+            $table->enum('role', ['system', 'user', 'assistant']);
             $table->text('content');
             $table->timestamps();
         });
