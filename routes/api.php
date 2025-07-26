@@ -55,7 +55,8 @@ Route::post('/webhook/whatsapp', function (Request $request, ChatGptService $cha
         $whatsapp->sendMessage($from, $reply['respuesta']);
         if($reply['productos']){
             foreach($reply['productos'] as $p){
-                $caption = $p['nombre']."\n". $p['precio']."\n". $p['descripcion'];
+                $caption = $p['imagen']."\n".$p['nombre']."\n". $p['precio']."\n". $p['descripcion'];
+                //$whatsapp->sendMessage($from, $caption);
             $whatsapp->sendImage($from,$caption,$p['imagen']);
             }
             /*$whatsapp->sendMessage($from, "¿Desea ver más productos?");
